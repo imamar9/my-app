@@ -1,5 +1,5 @@
 {
-  "name": "my-basic-app",
+  "name": "my-app",
   "version": "1.0.0",
   "description": "A basic Node.js app",
   "main": "index.js",
