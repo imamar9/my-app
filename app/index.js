@@ -5,6 +5,7 @@ const port = 80;
 
 app.get('/', (req, res) => {
   res.send('Hey! this is chaos test app');
+  res.send('Running perfectly')
 });
 
 app.listen(port, () => {
